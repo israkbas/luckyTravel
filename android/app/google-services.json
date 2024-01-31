@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "2985457361",
+    "project_id": "blogs-5eb57",
+    "storage_bucket": "blogs-5eb57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2985457361:android:e7d302d626d334055437f0",
+        "android_client_info": {
+          "package_name": "com.example.blogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2985457361-jta2m2hid439lqhjkq8p8rre0ocl4mgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70cnQaw5pJJ4xFuzMr-uMcOfYl7cCg0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2985457361-jta2m2hid439lqhjkq8p8rre0ocl4mgp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2985457361-omktbal6r3ipelqqk5rd97c2f31upt1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lukcytravel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2985457361:android:ab1fc33cfc18e7bf5437f0",
+        "android_client_info": {
+          "package_name": "com.example.lukcytravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2985457361-jta2m2hid439lqhjkq8p8rre0ocl4mgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70cnQaw5pJJ4xFuzMr-uMcOfYl7cCg0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2985457361-jta2m2hid439lqhjkq8p8rre0ocl4mgp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2985457361-omktbal6r3ipelqqk5rd97c2f31upt1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lukcytravel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
